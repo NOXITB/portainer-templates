@@ -13868,7 +13868,7 @@
         "443:443/tcp"
       ],
       "restart_policy": "unless-stopped",
-      "title": "Nginx Proxy Manager v3 [DEVEL] NOT READY FOR USE",
+      "title": "Nginx Proxy Manager v3",
       "type": 1,
       "volumes": [
         {
